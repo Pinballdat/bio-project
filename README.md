@@ -1,1 +1,1 @@
-# Some simple code for Biinformatics projects
+# Some simple code for Bioinformatics projects
