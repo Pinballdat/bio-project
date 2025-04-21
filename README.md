@@ -1,2 +1,1 @@
-# The scripts to convert *.fasta to *.xlsx
-## Biopython and pandas
+# Some simple code for Biinformatics projects
